@@ -1,8 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
-# Axon Sales Dashboard
+Axon Sales Dashboard
 
 
 ## Problem Statement
